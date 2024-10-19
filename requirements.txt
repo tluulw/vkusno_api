@@ -3,4 +3,3 @@ alembic
 sqlalchemy[asyncio]
 asyncpg
 beautifulsoup4
-aiofile
